@@ -11,16 +11,17 @@ To RUN the project code, Please follow the below steps-
 
 3) Install the python packages as follows-
 
-pip install Keras-Applications
-pip install keras_preprocessing
-pip install numpy
-pip install keras-models
-pip install flask
-pip install keras
-pip install Werkzeug
-pip install gevent
-pip install matplotlib
-pip install glob2 or pip3 install glob
+pip install Keras-Applications  
+pip install keras_preprocessing  
+pip install numpy  
+pip install keras-models  
+pip install flask  
+pip install keras  
+pip install Werkzeug  
+pip install gevent  
+pip install matplotlib  
+pip install glob2 or pip3 install glob  
+
 
 4) Run the below command in the same folder's terminal-
 python app.py
