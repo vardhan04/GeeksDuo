@@ -1,7 +1,7 @@
-# GeeksDuo
+**# GeeksDuo
 Research Paper in CECS 574
 
-This is a TDC project on DISTRIBUTED CONVOLUTIONAL NEURAL NETWORKS by TEAM - GEEKSDUO (By, Sai Vardhan and Sai Mallesh)
+This is a TDC project on DISTRIBUTED CONVOLUTIONAL NEURAL NETWORKS by TEAM - GEEKSDUO (By, Sai Vardhan and Sai Mallesh)**
 
 To RUN the project code, Please follow the below steps-
 
